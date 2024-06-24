@@ -21,3 +21,13 @@ for(int i = 0; i < str_array.Length; i++)
         j++;
     }
 }
+
+void printArr(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+printArr(res_array);
