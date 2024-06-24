@@ -11,3 +11,13 @@ foreach(string str in str_array)
 
 string[] res_array= new string[count];
 int j = 0;
+
+for(int i = 0; i < str_array.Length; i++)
+{
+   
+    if(str_array[i].Length <= 3)
+    {
+        res_array[j] = str_array[i];
+        j++;
+    }
+}
