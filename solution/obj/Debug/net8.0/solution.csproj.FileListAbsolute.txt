@@ -1,0 +1,14 @@
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\bin\Debug\net8.0\solution.exe
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\bin\Debug\net8.0\solution.deps.json
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\bin\Debug\net8.0\solution.runtimeconfig.json
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\bin\Debug\net8.0\solution.dll
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\bin\Debug\net8.0\solution.pdb
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.AssemblyInfoInputs.cache
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.AssemblyInfo.cs
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.csproj.CoreCompileInputs.cache
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.dll
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\refint\solution.dll
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.pdb
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\solution.genruntimeconfig.cache
+D:\Users\Piksanb14\Documents\VsCodeProjects\Itogovaya\solution\obj\Debug\net8.0\ref\solution.dll
